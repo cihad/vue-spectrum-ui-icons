@@ -1,0 +1,22 @@
+{
+  "name": "vue-spectrum-ui-icons",
+  "version": "0.0.0",
+  "description": "Adobe Spectrum Ui Icons for Vue",
+  "main": "index.js",
+  "scripts": {
+    "build:icons": "node ./scripts/build.js"
+  },
+  "keywords": [
+    "spectrum",
+    "icon",
+    "icons",
+    "vue",
+    "ui"
+  ],
+  "author": "Cihad Paksoy <cihadp@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "svg-to-vue": "^0.7.0",
+    "vue-template-compiler": "^2.6.12"
+  }
+}
